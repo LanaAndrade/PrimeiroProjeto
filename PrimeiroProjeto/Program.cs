@@ -43,7 +43,7 @@ void ExibirOpcoesDoMenu()
             break;
     }
 }
-
+ 
 void RegistrarBanda() 
 { 
     Console.Clear();
